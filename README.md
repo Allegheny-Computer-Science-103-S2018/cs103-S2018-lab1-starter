@@ -34,11 +34,11 @@ in the commit logs.
 
 This assignment requires a programmer to implement a static web site using the
 Markdown programming language. Specifically, you will create a web site with
-headers, paragraphs, a link, and an unordered list. Then, you will use a
-Markdown conversion tool, called [Pandoc](https://pandoc.org/) to convert your
-Markdown to HTML and then run a web server to provide local access to the static
-web site. Finally, you will note the differences in the display of the Markdown
-on GitHub and the web site created by your local server.
+headers, subheaders, paragraphs, a link, and an unordered list. Then, you will
+use a Markdown conversion tool, called [Pandoc](https://pandoc.org/) to convert
+your Markdown to HTML and then run a web server to provide local access to the
+static web site. Finally, you will note the differences in the display of the
+Markdown on GitHub and the web site created by your local server.
 
 The programmer is also responsible for writing a reflection, stored in the file
 `writing/reflection.md`, that responds to the questions in the assignment sheet
